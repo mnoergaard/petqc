@@ -72,15 +72,6 @@ limitations under the License.
 Acknowledgements
 ----------------
 This work is steered and maintained by the `NiPreps Community <https://www.nipreps.org>`__.
-The development of this resource was supported by
-the Laura and John Arnold Foundation (RAP and KJG),
-the NIBIB (R01EB020740, SSG; 1P41EB019936-01A1SSG, YOH),
-the NIMH (RF1MH121867, RAP, OE; R24MH114705 and R24MH117179, RAP; 1RF1MH121885 SSG),
-NINDS (U01NS103780, RAP), and NSF (CRCNS 1912266, YOH).
-OE acknowledges financial support from the SNSF Ambizione project
-“*Uncovering the interplay of structure, function, and dynamics of
-brain connectivity using MRI*” (grant number
-`PZ00P2_185872 <http://p3.snf.ch/Project-185872>`__).
 
 .. topic:: **Thanks**
 
